@@ -98,7 +98,8 @@ export default function Pricing() {
 
                                     <div className="mt-3 flex flex-wrap items-baseline gap-x-3 gap-y-1">
                                         <span className="text-6xl font-semibold tracking-[-0.06em] text-white sm:text-7xl">
-                                            $79
+                                            <span className="mr-3 text-3xl text-white/40 line-through">$149</span>
+                                            $99
                                         </span>
 
                                         <span className="text-sm text-white/50">
